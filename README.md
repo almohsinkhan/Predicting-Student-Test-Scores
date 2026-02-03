@@ -63,3 +63,41 @@ A complete **scikit-learn Pipeline** was built to ensure clean and reproducible 
 - **Cross-validation:** 5-fold CV
 
 ### 📈 Performance
+Pipeline R² Score ≈ 0.78
+
+
+This score reflects strong predictive performance given the dataset complexity.
+
+---
+
+## 🛠 Tech Stack
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+- Kaggle Notebooks
+
+---
+
+## 🎯 Key Learnings
+- Importance of **EDA before model selection**
+- Feature quality matters more than model complexity
+- Pipelines simplify preprocessing and reduce data leakage
+- Cross-validation gives more reliable evaluation
+- Simple models are often **more interpretable and robust**
+
+---
+
+## 🚀 Future Improvements
+- Hyperparameter tuning
+- Feature importance analysis
+- Regularization techniques (Ridge, Lasso)
+- Model explainability (SHAP)
+- Ensemble strategies
+
+---
+
+## 🏁 Conclusion
+This project strengthened my understanding of **end-to-end ML workflows** and reinforced a valuable principle in machine learning:
+
+> **Complexity is not always the answer.**
